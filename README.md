@@ -2,6 +2,9 @@
 
 A new Flutter project. Here you will learn how to implement a music player into your flutter app.
 
+
+<img src="https://github.com/boffincoders/Flutter-Music-Player/blob/master/assets/songs/Screenrecorder.gif?raw=true" width="300" height="620" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
