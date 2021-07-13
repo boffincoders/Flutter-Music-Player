@@ -32,6 +32,8 @@ A new Flutter project. Here you will learn how to implement a music player into 
  
  ```
  flutter pub get
+ ```
+ ```
  flutter run
  ```
  
