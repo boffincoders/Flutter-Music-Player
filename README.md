@@ -5,6 +5,21 @@ A new Flutter project. Here you will learn how to implement a music player into 
 
 <img src="https://github.com/boffincoders/Flutter-Music-Player/blob/master/assets/songs/Screenrecorder.gif?raw=true" width="300" height="620" />
 
+## Features (Android & iOS)
+
+- [x] Fetch local songs
+- [x] Beautiful UI
+- [x] CD Animation
+- [x] Play (local files)
+- [x] Stop
+- [x] Pause
+- [x] Seek
+- [x] Duration
+- [x] Play background
+- [ ] Shuffle
+- [ ] Favorite
+- [ ] Play Network File
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
