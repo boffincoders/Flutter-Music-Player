@@ -1,6 +1,6 @@
-# audio_player
+# Flutter Audio Player
 
-A new Flutter project.
+A new Flutter project. Here you will learn how to implement a music player into your flutter app.
 
 ## Getting Started
 
