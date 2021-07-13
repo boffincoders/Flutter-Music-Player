@@ -26,7 +26,7 @@ A new Flutter project. Here you will learn how to implement a music player into 
   - Fetch latest source code from master branch.
  
  ```
-   git clone https://github.com/boffincoders/Flutter-Music-Player.git
+ git clone https://github.com/boffincoders/Flutter-Music-Player.git
  ```  
  - Run the app with Android Studio or Visual Studio. Or the command line.
  
